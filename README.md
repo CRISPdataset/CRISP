@@ -15,4 +15,5 @@ Please click [here](https://drive.google.com/file/d/1Ufo7hi4rqwaCNiYs-nNyBy5dnHd
 
 ## ModalBlender
 
+![image](https://github.com/CRISPdataset/CRISP/blob/main/pic/modalblender.png)
 The model code will be uploaded soon.
