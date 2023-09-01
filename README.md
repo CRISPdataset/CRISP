@@ -2,7 +2,7 @@
 Multimodal Dataset  CRISP
 
 Some examples are as follow.
-![image](https://github.com/CRISPdataset/CRISP/blob/main/pic/examples.png))
+![image](https://github.com/CRISPdataset/CRISP/blob/main/pic/examples.png)
 
 ## Pipeline
 
