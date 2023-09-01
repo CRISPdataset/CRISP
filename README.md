@@ -3,7 +3,9 @@ Multimodal Dataset  CRISP
 
 
 ## Pipeline
-The dataset generation pipeline will be uploaded soon.
+
+![image](https://github.com/CRISPdataset/CRISP/blob/main/pic/scene_graph.pdf)
+The code of the dataset generation pipeline will be uploaded soon.
 
 
 ## Download
